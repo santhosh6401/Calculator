@@ -1,0 +1,51 @@
+	
+		.button{
+			width: 50px;
+			height: 50px;
+			font-size: 25px;
+			margin:3px;
+			color:white;
+			background-color: #343a40;
+			border-radius: 50%;
+			border-width: 0;
+			box-shadow: 2px 2px #f2f2f2;
+		}
+		.textview{
+			width: 222px;
+			margin: 5px;
+			font-size: 25px;
+			padding: 5px;
+			border-radius: 5px;
+			border:5px solid #f2f2f2;
+			
+	    }
+	    form{
+	    	padding-top: 60px;
+	    	padding-left: 75px;
+	    }
+	    table{
+	    	padding-top: 40px;
+	    	padding-left: 75px;
+	    }
+	   
+	    
+		
+		.main{
+			position: absolute;
+	        opacity: 0.8;
+			top: 50%;
+			left: 50%;
+			height: 500px;
+			width:400px;
+			transform: translateX(-50%) translateY(-50%);
+			background-color: black;
+			border-radius: 10px;
+			box-shadow: 10px 10px teal;
+			
+		}
+		body{
+			background :linear-gradient( to right,#56ccf2,#2f80ed);
+			height:100%;
+		}
+	
+	
